@@ -2,7 +2,7 @@ package nn_test
 
 import (
 	"fmt"
-	"github.com/r0fls/gonn"
+	"github.com/r0fls/nngo"
 )
 
 func ExampleNN() {
